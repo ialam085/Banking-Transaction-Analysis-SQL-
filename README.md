@@ -1,1 +1,1 @@
-# Banking-Transaction-Analysis-SQL-
+# Banking Transaction Analysis using SQL
